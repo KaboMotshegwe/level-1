@@ -1,0 +1,16 @@
+div.ExpressVPN {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 auto;
+  margin: 0 auto;
+}
+img.network {
+  width: 120px;
+}
+img.data {
+  width: 80px;
+}
+p.secure {
+  text-align: right;
+  left: 600px;
+}
